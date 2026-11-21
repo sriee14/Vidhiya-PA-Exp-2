@@ -23,7 +23,7 @@ To visualize data using Matplotlib and Seaborn libraries.
 8.  **Stop.**
 
 
-## PROGRAM 
+## Program
 
 
 ```
@@ -74,7 +74,7 @@ plt.show()
 
 ```
 
-## OUTPUT
+## Output
 
 ```
 
@@ -106,7 +106,7 @@ Dataset:
 <img width="490" height="393" alt="image" src="https://github.com/user-attachments/assets/7403e0fd-37d1-4ea7-87d9-25dd47fc30e3" />
 
 
-## RESULT 
+## Result 
 
 
 Thus, data visualization was successfully performed using Matplotlib and Seaborn libraries in Python. The histogram was used to represent age distribution, the scatter plot showed the relationship between age and salary, the pie chart displayed salary distribution by age, and the box plot represented the salary distribution. Hence, different graphical techniques were used to understand and analyze the dataset effectively.
